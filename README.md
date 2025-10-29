@@ -29,11 +29,7 @@ A full-stack MERN application for managing cricket team registrations with a mod
 
 ## Prerequisites
 
-Before running this application, make sure you have the following installed:
 
-- Node.js (v14 or higher)
-- MongoDB (local installation or MongoDB Atlas account)
-- npm or yarn package manager
 
 ## Installation
 
